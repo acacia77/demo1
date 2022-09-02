@@ -1,0 +1,25 @@
+server:
+  port: 8095
+  tomcat:
+    max-threads: 500
+spring:
+  resources:
+    static-locations: file:D:/p9study/p9.static.lib/source,classpath:/META-INF/resources/,classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/
+  application:
+    name: demo.flow.sjq
+logging:
+  path: logs/
+  file: as.log
+redis:
+  host: 127.0.0.1
+  post: 6379
+  psd: foobared
+#  psd: foobared
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://system:123456@127.0.0.1:8989/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: http://${spring.cloud.client.ipAddress}:${server.port}

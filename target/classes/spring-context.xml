@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:as="http://www.yunagile.com/as"
+	xsi:schemaLocation="
+		http://www.yunagile.com/as classpath:com/yunagile/model/spring-as.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd"> 
+	<aop:aspectj-autoproxy proxy-target-class="true" />  
+	<bean id="demo" class="org.apache.commons.dbcp.BasicDataSource">
+		<!-- <property name="driverClassName" value="oracle.jdbc.driver.OracleDriver" /> 
+		<property name="url" value="jdbc:oracle:thin:@127.0.0.1:1521:orcl" /> 
+		<property name="username" value="assys17" /> 
+		<property name="password" value="1" /> -->
+		<property name="driverClassName" value="com.mysql.jdbc.Driver" /> 
+		<property name="url" value="jdbc:mysql://127.0.0.1:3306/demo?characterEncoding=utf-8" /> 	<!-- 数据库连接地址，/demo 为数据库实例名 -->
+		<property name="username" value="root" />   <!-- 用户名 -->
+		<property name="password" value="123456" /> <!-- 密码 -->
+		<property name ="maxActive" value = "2" />
+        <property name ="maxIdle" value = "1" />
+        <property name ="maxWait" value = "10000" /> 
+ 	</bean>
+	<!-- <bean id="system" class="org.apache.commons.dbcp.BasicDataSource" primary="true">
+		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
+		<property name="url" value="jdbc:mysql://192.168.0.110:3306/assys18r?characterEncoding=utf-8" />
+		<property name="username" value="root" />
+		<property name="password" value="1" />
+		<property name ="maxActive" value = "2" />
+        <property name ="maxIdle" value = "1" />
+        <property name ="maxWait" value = "10000" />
+	</bean>
+	<as:model package="com.yunagile.flowTT" dataSource="system" configLocation="classpath:mybatis-configuration-cs.xml"/>
+	 -->
+	 <!--**** -->
+	<as:model package="com.yunagile.demo" dataSource="demo"/>
+	
+	<!-- <as:model package="com.yunagile.document" session-factory="systemFac" ignore="true"/>
+	<as:model package="com.yunagile.flow" session-factory="systemFac" ignore="true"/> -->
+</beans>

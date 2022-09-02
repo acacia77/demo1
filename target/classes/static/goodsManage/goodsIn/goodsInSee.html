@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>入库明细查看</title>
+    <link href="/bsys/common/core/css/main.css" rel="stylesheet" type="text/css"></link>
+    <script type="text/javascript" src="/bsys/common/core/jquery/jquery.js"></script>
+    <script type="text/javascript" src="/bsys/common/core/core.js"></script>
+    <script type="text/javascript" src="/goodsManage/goodsIn/js/goodsInSee.js"></script>
+</head>
+<body>
+<div class="p9-title border-header">
+    <div class="p9-title-top">
+        <div class="p9-top-left">
+            <div class="p9-left-icon"></div>
+            <div class="p9-left-nav">
+                <div class="p9-left-title">入库明细查看</div>
+                <div class="p9-left-menus"></div>
+            </div>
+        </div>
+        <div class="p9-top-center"></div>
+        <div class="p9-top-right clearfix">
+            <!-- 更多菜单项 -->
+            <div class="pull-right p9-right-btns">
+                <i class="fa fa-list fa-2x"></i>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="view-body">
+    <div id="formSeeTbl">
+        <!--<div class="toolbar border-top-no">
+            &lt;!&ndash;除标准的操作按钮外，可以在这里添加按钮，toolbar&ndash;&gt;
+        </div>-->
+    </div>
+    <div class="view-body t">
+        <!--以table布局的表单，列数和宽度可以自行调整-->
+        <table class="form">
+            <thead>
+            <tr>
+                <td width="25"></td>
+                <td width="25"></td>
+                <td width="25"></td>
+                <td width="25"></td>
+            </tr>
+            </thead>
+            <tr class="form-row">
+                <td class="form-field-label">入库单号</td>
+                <td><input data-bind="formSee.goodsInNumber" data-options="ro:true" class="form-field"/></td>
+                <td class="form-field-label">创建日期</td>
+                <td><input data-bind="formSee.createTime" data-options="ro:true" class="form-field easyui-datetimebox">
+                </td>
+            </tr>
+            <tr class="form-row">
+                <td class="form-field-label">创建人</td>
+                <td><input data-bind="formSee.createPsnName" data-options="ro:true" class="form-field"/></td>
+                <td class="form-field-label">入库状态</td>
+                <td><input data-bind="formSee.goodsInStatus" data-options="ro:true" class="form-field"/></td>
+            </tr>
+            <tr class="form-row">
+                <td class="form-field-label">入库描述</td>
+                <td><textarea data-bind="formSee.goodsInDescription" data-options="ro:true" class="form-field" style="width: 700px"></textarea>
+                </td>
+            </tr>
+        </table>
+        <div style="height: 600px;">
+            <div id="grid" readonly="readonly">
+                <div class="toolbar">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

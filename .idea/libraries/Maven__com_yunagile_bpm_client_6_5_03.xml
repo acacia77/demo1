@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yunagile:bpm.client:6.5.03">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/bpm.client/6.5.03/bpm.client-6.5.03.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/bpm.client/6.5.03/bpm.client-6.5.03-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/bpm.client/6.5.03/bpm.client-6.5.03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

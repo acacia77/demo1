@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yunagile:web.base:6.5.09">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/web.base/6.5.09/web.base-6.5.09.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/web.base/6.5.09/web.base-6.5.09-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/web.base/6.5.09/web.base-6.5.09-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

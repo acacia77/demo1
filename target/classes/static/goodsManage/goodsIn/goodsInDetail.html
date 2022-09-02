@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>入库明细</title>
+    <link href="/bsys/common/core/css/main.css" rel="stylesheet" type="text/css"></link>
+    <script type="text/javascript" src="/bsys/common/core/jquery/jquery.js"></script>
+    <script type="text/javascript" src="/bsys/common/core/core.js"></script>
+    <script type="text/javascript" src="/goodsManage/goodsIn/js/goodsInDetail.js"></script>
+</head>
+<body>
+<div class="p9-title border-header">
+    <div class="p9-title-top">
+        <div class="p9-top-left">
+            <div class="p9-left-icon"></div>
+            <div class="p9-left-nav">
+                <div class="p9-left-title">新增入库明细</div>
+                <div class="p9-left-menus"></div>
+            </div>
+        </div>
+        <div class="p9-top-center"></div>
+        <div class="p9-top-right clearfix">
+            <!-- 更多菜单项 -->
+            <div class="pull-right p9-right-btns">
+                <i class="fa fa-list fa-2x"></i>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="view-body">
+    <div id="formTbl">
+        <!--除标准的操作按钮外，可以在这里添加按钮，toolbar-->
+        <div class="toolbar-item action-item" onclick="toolbar.submit();" id="sub">
+            <span class="fa fa-plus"></span><span>入库</span>
+        </div>
+    </div>
+    <div class="view-body t">
+        <!--以table布局的表单，列数和宽度可以自行调整-->
+        <table class="form">
+            <thead>
+            <tr>
+                <td width="25"></td>
+                <td width="25"></td>
+                <td width="25"></td>
+                <td width="25"></td>
+            </tr>
+            </thead>
+            <tr class="form-row">
+                <td class="form-field-label">入库单号</td>
+                <td><input data-bind="form1.goodsInNumber" data-options="ro:true" class="form-field" placeholder="请输入入库单号"/></td>
+                <td class="form-field-label">创建日期</td>
+                <td><input data-bind="form1.createTime" data-options="ro:true" class="form-field easyui-datetimebox"></td>
+            </tr>
+            <tr class="form-row">
+                <td class="form-field-label">创建人</td>
+                <td><input data-bind="form1.createPsnName" data-options="ro:true" class="form-field" placeholder="请输入创建人"/></td>
+                <td class="form-field-label">入库状态</td>
+                <td><input data-bind="form1.goodsInStatus" data-options="ro:true" class="form-field" placeholder="请输入入库状态"/></td>
+            </tr>
+            <tr class="form-row">
+                <td class="form-field-label">入库描述</td>
+                <td><textarea data-bind="form1.goodsInDescription" class="form-field" placeholder="请输入入库描述" style="width: 700px"></textarea></td>
+            </tr>
+        </table>
+        <div style="height: 600px;">
+            <div id="slaveIn">
+                <div class="toolbar">
+                    <div class="toolbar-item add" id="insert">
+                        <span class="fa fa-plus" onclick="dialog.open('/goodsManage/baseInfo/goodsInfoSelect.html',dialogCallBack,{},'物品信息')">新增</span>
+                        <div class="toolbar-item-division"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

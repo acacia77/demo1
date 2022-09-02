@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yunagile:system.api:1.8.07">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/system.api/1.8.07/system.api-1.8.07.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/system.api/1.8.07/system.api-1.8.07-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/system.api/1.8.07/system.api-1.8.07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

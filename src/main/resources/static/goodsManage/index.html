@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>目录</title>
+    <link href="/bsys/common/core/css/main.css" rel="stylesheet" type="text/css"></link>
+    <script type="text/javascript" src="/bsys/common/core/jquery/jquery.js"></script>
+    <script type="text/javascript" src="/bsys/common/core/core.js"></script>
+    <style type="text/css">
+        * {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        a:link {
+            text-decoration:none;
+        }
+        a:visited {
+            text-decoration:none;
+        }
+        a:hover {
+            text-decoration:none;
+        }
+        a:active {
+            text-decoration:none;
+        }
+
+        li{
+            font-size: 17px;
+            margin: 56px;
+
+        }
+    </style>
+</head>
+<body>
+<div id="main" style="width:100%;height:100%; ">
+
+    <div id="left" style="float:left;width:200px;height:100%; background-color: aliceblue">
+        <a href="#"><li style="margin-top: 12px">目录</li></a>
+        <a href="http://localhost:8082/goodsManage/baseInfo/goodsInfo.html" target="frame">
+            <li style="margin-top: -27px;"> 物品信息</li>
+        </a>
+        <a href="http://localhost:8082/goodsManage/goodsIn/goodsInList.html" target="frame">
+            <li style="margin-top: -45px;">入库单</li>
+        </a>
+        <a href="http://localhost:8082/goodsManage/goodsOut/goodsOutList.html" target="frame">
+            <li style="margin-top: -45px;">领用单</li>
+        </a>
+    </div>
+
+    <div id="right" style="height:100%;width:auto;margin-left:200px;">
+        <iframe src="http://localhost:8082/goodsManage/baseInfo/goodsInfo.html" id="iframe" name="frame" scrolling="no"
+                frameborder="0" height="100%" width="100%">
+
+        </iframe>
+    </div>
+
+</div>
+</body>
+<script type="text/javascript">
+    $(document).ready(function () {
+        <!--执行代码在这里编写-->
+    })
+</script>
+</html>

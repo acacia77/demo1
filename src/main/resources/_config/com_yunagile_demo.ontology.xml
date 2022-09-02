@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data> 
+  <item id="goodsIn@com_yunagile_demo" ds="com.yunagile.demo" name="goodsIn" illustration="入库单" keyField="id" relationRule="f*" isNeadVersion="false" versionField="version" tableName="g_goodsIn"/>  
+  <item id="goodsInDetail@com_yunagile_demo" ds="com.yunagile.demo" name="goodsInDetail" illustration="入库明细" keyField="id" relationRule="f*" isNeadVersion="false" versionField="version" tableName="g_goodsInDetail"/>  
+  <item id="goodsInfo@com_yunagile_demo" ds="com.yunagile.demo" name="goodsInfo" illustration="物品信息" keyField="id" relationRule="f*" isNeadVersion="false" versionField="version" tableName="g_goodsInfo"/>  
+  <item id="goodsOut@com_yunagile_demo" ds="com.yunagile.demo" name="goodsOut" illustration="出库单(领用单)" keyField="id" relationRule="f*" isNeadVersion="false" versionField="version" tableName="g_goodsOut"/>  
+  <item id="goodsOutDetail@com_yunagile_demo" ds="com.yunagile.demo" name="goodsOutDetail" illustration="领用单明细" keyField="id" relationRule="f*" isNeadVersion="false" versionField="version" tableName="g_goodsOutDetail"/> 
+</data>

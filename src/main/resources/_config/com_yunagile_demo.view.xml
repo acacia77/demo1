@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<views> 
+  <view id="goodsManage_baseInfo_goodsInfo" page="goodsManage/baseInfo/goodsInfo.html"/>  
+  <view id="goodsManage_goodsIn_goodsInList" page="goodsManage/goodsIn/goodsInList.html"/>  
+  <view id="goodsManage_goodsOut_goodsOutList" page="goodsManage/goodsOut/goodsOutList.html"/>  
+  <view id="goodsManage_goodsIn_goodsInDetail" page="goodsManage/goodsIn/goodsInDetail.html"/>  
+  <view id="goodsManage_baseInfo_goodsInfoSelect" page="goodsManage/baseInfo/goodsInfoSelect.html"/>  
+  <view id="goodsManage_goodsOut_goodsOutDetail" page="goodsManage/goodsOut/goodsOutDetail.html"/>  
+  <view id="goodsManage_goodsIn_goodsInSee" page="goodsManage/goodsIn/goodsInSee.html"/>  
+  <view id="goodsManage_goodsOut_goodsOutSee" page="goodsManage/goodsOut/goodsOutSee.html"/>  
+  <view id="goodsManage_index" page="goodsManage/index.html"/>
+</views>

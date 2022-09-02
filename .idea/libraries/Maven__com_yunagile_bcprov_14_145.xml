@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yunagile:bcprov:14.145">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/bcprov/14.145/bcprov-14.145.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/bcprov/14.145/bcprov-14.145-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../packagesPath/LocalStudy/studylocal/com/yunagile/bcprov/14.145/bcprov-14.145-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

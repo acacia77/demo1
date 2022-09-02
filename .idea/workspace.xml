@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abbbe73f-5b9c-4db3-8116-dfc2f34d1e3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_easyexcel_2_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javaparser_javaparser_core_3_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_grapher_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_api_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_core_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_ImageEditor_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_bcprov_14_145.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_bpm_client_6_5_03.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_bpm_protocol_1_8_06.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_java_image_scaling_0_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_jxl_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_mybatis_3_2_3_03.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_p9_base_6_5_05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_p9_base_util_1_8_05_02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_p9_cache_3_1_02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_p9_cloud_6_5_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_p9_cloud_base_6_5_02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_p9_devTool_6_5_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_system_api_1_8_07.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_ueditor_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yunagile_web_base_6_5_09.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_javax_mail_api_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ehcache_ehcache_3_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_27_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-03.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-04.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-05.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-06.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-08.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-09.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-10.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-11.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-12.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-15.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-16.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-17.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-18.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-19.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-20.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-22.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-23.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-25.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-26.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-29.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-08-31.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/daily/logFile_IS_UNDEFINED.2022-09-01.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/logFile_IS_UNDEFINED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/app/Demo1Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/config/WebConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/baseInfo/actions/GoodsInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/baseInfo/business/GoodsInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/goodsIn/actions/GoodsInController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/goodsIn/business/GoodsInService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/goodsInDetail/actions/GoodsInDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/goodsInDetail/business/GoodsInDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/goodsOutDeatil/actions/GoodsOutDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/goodsOutDeatil/business/GoodsOutDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yunagile/system/TestKVService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/com_yunagile_demo.ontology.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/com_yunagile_demo.view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/goodsIn@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/goodsInDetail@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/goodsInfo@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/goodsOut@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/goodsOutDetail@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/relation/goodsIn@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/relation/goodsInDetail@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/relation/goodsInfo@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/relation/goodsOut@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/ontology/relation/goodsOutDetail@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/view/goodsManage_baseInfo_goodsInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/view/goodsManage_baseInfo_goodsInfoSelect.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/view/goodsManage_goodsIn_goodsInDetail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/view/goodsManage_goodsIn_goodsInList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/view/goodsManage_goodsIn_goodsInSee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/view/goodsManage_goodsOut_goodsOutDetail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/view/goodsManage_goodsOut_goodsOutList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/view/goodsManage_goodsOut_goodsOutSee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config/view/goodsManage_index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/context.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shiro.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/baseInfo/goodsInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/baseInfo/goodsInfoSelect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/baseInfo/js/goodsInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/baseInfo/js/goodsInfoSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsIn/goodsInDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsIn/goodsInList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsIn/goodsInSee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsIn/js/goodsInDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsIn/js/goodsInList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsIn/js/goodsInSee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsOut/goodsOutDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsOut/goodsOutList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsOut/goodsOutSee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsOut/js/goodsOutDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsOut/js/goodsOutList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/goodsOut/js/goodsOutSee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/goodsManage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/test/formT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yunagile/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yunagile/system/TestKVService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/com_yunagile_demo.ontology.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/com_yunagile_demo.view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/goodsIn@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/goodsInDetail@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/goodsInfo@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/goodsOut@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/goodsOutDetail@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/relation/goodsIn@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/relation/goodsInDetail@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/relation/goodsInfo@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/relation/goodsOut@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/ontology/relation/goodsOutDetail@com_yunagile_demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/view/goodsManage_baseInfo_goodsInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/view/goodsManage_baseInfo_goodsInfoSelect.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/view/goodsManage_goodsIn_goodsInDetail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/view/goodsManage_goodsIn_goodsInList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/view/goodsManage_goodsIn_goodsInSee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/view/goodsManage_goodsOut_goodsOutDetail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/view/goodsManage_goodsOut_goodsOutList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/view/goodsManage_goodsOut_goodsOutSee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/_config/view/goodsManage_index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/app/Demo1Starter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/config/TestConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/config/WebConfigTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/config/WebConfigTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/config/WebConfigTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/demo/goodsManage/baseInfo/actions/GoodsInfoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/demo/goodsManage/baseInfo/business/GoodsInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/demo/goodsManage/goodsIn/actions/GoodsInController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/demo/goodsManage/goodsIn/business/GoodsInService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/demo/goodsManage/goodsInDetail/actions/GoodsInDetailController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/demo/goodsManage/goodsInDetail/business/GoodsInDetailService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/demo/goodsManage/goodsOutDeatil/actions/GoodsOutDetailController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/demo/goodsManage/goodsOutDeatil/business/GoodsOutDetailService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/system/TestKVService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/yunagile/system/TestKVService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/context.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/shiro.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/baseInfo/goodsInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/baseInfo/goodsInfoSelect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/baseInfo/js/goodsInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/baseInfo/js/goodsInfoSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsIn/goodsInDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsIn/goodsInList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsIn/goodsInSee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsIn/js/goodsInDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsIn/js/goodsInList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsIn/js/goodsInSee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsOut/goodsOutDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsOut/goodsOutList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsOut/goodsOutSee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsOut/js/goodsOutDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsOut/js/goodsOutList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/goodsOut/js/goodsOutSee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/goodsManage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/test/formT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/yunagile/config/TestConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/yunagile/system/TestKVService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/yunagile/system/TestKVService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\packagesPath\LocalStudy\studylocal" />
+        <option name="userSettingsFile" value="D:\packagesPath\LocalStudy\setingss\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CPr2r7vKLpNp3qBkOlHSuqxYuO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2890542" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\demoProject\src\main\java\com\yunagile\demo\goodsManange" />
+      <recent name="D:\study\demoProject\src\main\java\com\yunagile\demo\goodsManange\goodsOut" />
+      <recent name="D:\study\demoProject\src\main\java\com\yunagile\demo\goodsManange\goodsIn" />
+      <recent name="D:\study\demoProject\src\main\resources\static\goodsManange\goodsOut" />
+      <recent name="D:\study\demoProject\src\main\resources\static\goodsManange\goodsIn" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\demoProject\src\main\resources\static\goodsManange\baseInfo\js" />
+      <recent name="D:\study\demoProject\src\main\resources\static\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yunagile.system" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1Starter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yunagile.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yunagile.app.Demo1Starter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Demo1Starter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abbbe73f-5b9c-4db3-8116-dfc2f34d1e3b" name="Default Changelist" comment="" />
+      <created>1658714857806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658714857806</updated>
+      <workItem from="1658714858924" duration="11989000" />
+      <workItem from="1658739162399" duration="464000" />
+      <workItem from="1658739642545" duration="4456000" />
+      <workItem from="1658797057202" duration="544000" />
+      <workItem from="1658797726250" duration="3584000" />
+      <workItem from="1658802642015" duration="20283000" />
+      <workItem from="1658884500947" duration="7121000" />
+      <workItem from="1658891698087" duration="8849000" />
+      <workItem from="1658912934449" duration="6141000" />
+      <workItem from="1658970737771" duration="30605000" />
+      <workItem from="1659017119789" duration="3526000" />
+      <workItem from="1659056533187" duration="19559000" />
+      <workItem from="1659083813067" duration="9503000" />
+      <workItem from="1659315818046" duration="27377000" />
+      <workItem from="1659402273505" duration="15090000" />
+      <workItem from="1659424353732" duration="33463000" />
+      <workItem from="1659517430098" duration="3646000" />
+      <workItem from="1659524972969" duration="4518000" />
+      <workItem from="1659575747651" duration="41911000" />
+      <workItem from="1659747517156" duration="8335000" />
+      <workItem from="1659920498351" duration="1107000" />
+      <workItem from="1659922420439" duration="1727000" />
+      <workItem from="1659926699253" duration="27610000" />
+      <workItem from="1660185735702" duration="27007000" />
+      <workItem from="1660718947235" duration="1349000" />
+      <workItem from="1660794661685" duration="4688000" />
+      <workItem from="1660810528460" duration="14267000" />
+      <workItem from="1661219027145" duration="103000" />
+      <workItem from="1661310942574" duration="8478000" />
+      <workItem from="1661851967600" duration="265000" />
+      <workItem from="1661914123448" duration="25000" />
+      <workItem from="1661915387664" duration="5357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/goodsOutDeatil/business/GoodsOutDetailService.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yunagile/demo/goodsManage/goodsOutDeatil/business/GoodsOutDetailService.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
